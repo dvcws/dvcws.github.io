@@ -1,0 +1,222 @@
+
+<!doctype html>
+<html class="no-js" lang="it">
+<head>
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Sky - Un'estate di calcio mondiale</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<style type="text/css">
+		/*! normalize.css v4.0.0 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block}audio:not([controls]){display:none;height:0}progress{vertical-align:baseline}template,[hidden]{display:none}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:0;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit}b,strong{font-weight:bolder}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}img{border-style:none}svg:not(:root){overflow:hidden}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}button,input,select,textarea{font:inherit;margin:0}optgroup{font-weight:bold}button,input{overflow:visible}button,select{text-transform:none}button,html [type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px}[type="search"]::-webkit-search-cancel-button,[type="search"]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-input-placeholder{color:inherit;opacity:.54}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
+	</style>
+
+	<style type="text/css">
+		html {
+			box-sizing: border-box;
+		}
+		*, *:before, *:after {
+			box-sizing: inherit;
+		}
+		body {
+			background-color: #eaeaec;
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+			font-size: .8rem;
+		}
+		.main-img {
+			max-width: 100%;
+			height: auto;
+			display: block;
+		}
+		.main-img.is-big {
+			display: none;
+		}
+
+		.btn-container {
+			position: fixed;
+			bottom: 0;
+			left: 0;
+			width: 100%;
+			padding: 12px;
+		}
+
+		.btn-container .btn {
+			display: block;
+			opacity: 0;
+			-webkit-transform: translateY(200px);
+			-ms-transform: translateY(200px);
+			transform: translateY(200px);
+			transition: opacity .7s, -webkit-transform .7s;
+			transition: opacity .7s, transform .7s;
+			transition: opacity .7s, transform .7s, -webkit-transform .7s;
+		}
+
+		.btn-container .btn:last-child {
+			transition-delay: .3s;
+		}
+
+		.btn-container.is-visible .btn {
+			opacity: 1;
+			-webkit-transform: translateY(0);
+			-ms-transform: translateY(0);
+			transform: translateY(0);
+		}
+
+		.btn {
+			display: inline-block;
+			padding: 14px 12px;
+			background: #000 url('img/btn-arrow.png') no-repeat right center;
+			text-decoration: none;
+			color: #fff;
+			margin-bottom: 12px;
+			text-transform: uppercase;
+			font-weight: bold;
+			line-height: 1;
+			box-shadow: 1px 1px 3px 0 #999;
+			font-size: .9.5em;
+		}
+
+		.btn-icon {
+			display: block;
+			float: left;
+			width: 18px;
+			height: 18px;
+			margin-right: 12px;
+		}
+
+		.btn-icon.is-call {
+			background: transparent url('img/icon-call.png') no-repeat center center;
+			background-size: 100% 100%;
+		}
+
+		.btn-icon.is-mail {
+			background: transparent url('img/icon-mail.png') no-repeat center center;
+			background-size: 100% 100%;
+		}
+
+		.btn-text {
+			line-height: 18px;
+		}
+
+		.btn.is-green {
+			background-color: rgba(109, 190, 15, .9);
+		}
+
+		.btn.is-blue {
+			background-color: rgba(0, 132, 204, .9);
+		}
+
+		@media (min-width: 660px) {
+			body {
+				background-color: #eaeef1;
+			}
+			.main-img.is-small {
+				display: none;
+			}
+			.main-img.is-big {
+				display: block;
+			}
+
+			.btn-container {
+				display: -webkit-flex;
+				display: -ms-flexbox;
+				display: flex;
+			}
+			.btn-container .btn {
+				margin-right: 12px;
+				-webkit-flex: 1 0 0px;
+				-ms-flex: 1 0 0px;
+				flex: 1 0 0px;
+				margin-bottom: 0;
+				-webkit-transform: translateY(0) translateX(-200px);
+				-ms-transform: translateY(0) translateX(-200px);
+				transform: translateY(0) translateX(-200px);
+			}
+			.btn-container .btn:last-child {
+				margin-right: 0;
+				-webkit-transform: translateY(0) translateX(200px);
+				-ms-transform: translateY(0) translateX(200px);
+				transform: translateY(0) translateX(200px);
+			}
+			.btn-container.is-visible .btn {
+				-webkit-transform: translateX(0);
+				-ms-transform: translateX(0);
+				transform: translateX(0);
+			}
+		}
+	</style>
+
+</head>
+<body>
+
+	<img src="img/main-small.jpg" alt="Sky Image" class="main-img is-small js-mainImg" id="js-smallImg">
+	<img src="img/main-big.jpg" alt="Sky Image" class="main-img is-big js-mainImg" id="js-bigImg">
+
+	<div class="btn-container" id="js-btnContainer">
+		<a href="http://doveconviene.it/_/redirect?from=btn_call&to=tel%3A800922314" class="btn is-green" id="js-btnCall" target="_blank">
+			<img src="img/icon-call.png"/>
+			<span class="btn-text">Chiama ora</span>
+		</a>
+		<a href="http://www.doveconviene.it/_/redirect?from=btn_form&to=http%3A%2F%2Fwww.sky.it%2Fcallmenow%2Fres%2Fnuovoabbonamento.html" class="btn is-blue">
+			<span class="btn-icon is-mail"></span>
+			<span class="btn-text">Vuoi essere contattato?</span>
+		</a>
+	</div>
+
+</body>
+
+	<script>
+		var isInIFrame = (window.location != window.parent.location);
+		var btnCall = document.getElementById('js-btnCall');
+		var btnContainer = document.getElementById('js-btnContainer');
+		var btnContainerHeight = btnContainer.offsetHeight;
+		var windowHeight = window.innerHeight;
+		var mainImgs = document.querySelectorAll('.js-mainImg');
+		var visibleImg = '';
+		var imgHeight = 0;
+
+		// Se la pagina è contenuta in iFrame
+		if(isInIFrame===true){
+			btnCall.style.display = 'none';
+		}
+
+		// Calcolo altezza dell'immagine visibile
+		function getVisibleImgHeight() {
+
+			Array.prototype.forEach.call(mainImgs, function(el, i){
+
+				if(el.offsetWidth > 0 || el.offsetHeight > 0 ) {
+					visibleImg = el;
+				}
+			});
+
+			imgHeight = visibleImg.offsetHeight;
+		}
+
+		// Imposto posizione del container dei bottoni
+		function setBtnContainerPosition() {
+
+			getVisibleImgHeight();
+
+			if(windowHeight >= btnContainerHeight + imgHeight) {
+				btnContainer.style.top = imgHeight + 'px';
+				btnContainer.style.bottom = 'auto';
+			} else {
+				btnContainer.style.top = 'auto';
+				btnContainer.style.bottom = '0';
+			}
+		}
+
+		window.onload = function() {
+			setBtnContainerPosition();
+			btnContainer.classList.add('is-visible');
+		};
+
+		window.onresize = function() {
+			windowHeight = window.innerHeight;
+			setBtnContainerPosition();
+		};
+	</script>
+</html>

@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# Time: Tue Aug 30 2016 09:17:23 GMT+0000 (UTC)
+
+CACHE:
+../assets/js/all.js
+../assets/css/main.css
+../assets/css/print.css
+http://fonts.googleapis.com/css?family=Montserrat:400,700&subset=latin
+
+NETWORK:
+*

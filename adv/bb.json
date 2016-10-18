@@ -1,0 +1,42 @@
+
+{
+    "landing": {
+		"body": "body",
+		"title": "Titolo landing",
+		"actions": [{
+			"text": "Flyer",
+			"tracking_url": "http://ad105.neodatagroup.com/ad/events.jsp?a=311259&l=464927&c=529784&sys=105&session_id=529784&etype=&evalue=&uv=viewer_1&dbg=0&rand=1465564010768",
+			"param": "386099",
+			"action": "viewer",
+			"type": "button"
+		},
+    {
+      "text": "Tappo",
+      "tracking_url": "http://ad105.neodatagroup.com/ad/events.jsp?a=311259&l=464927&c=529784&sys=105&session_id=529784&etype=&evalue=&uv=viewer_1&dbg=0&rand=1465564010768",
+      "param": "386099",
+      "action": "tappo",
+      "type": "button"
+    }],
+		"img_landscape_url": "https://adagiobanner.s3.amazonaws.com/img_uploads/784/105_529784_1_banner_dummy.png",
+		"img_portrait_url": "https://adagiobanner.s3.amazonaws.com/img_uploads/784/105_529784_1_banner_dummy.png"
+	},
+	"banner": {
+		"img_landscape": "https://adagiobanner.s3.amazonaws.com/img_uploads/784/105_529784_1_banner_dummy.png",
+		"height_landscape": "400",
+		"custom_click_url": "http://httpbin.org/get?clickUrl",
+		"width_portrait": "1080",
+		"img_portrait": "https://adagiobanner.s3.amazonaws.com/img_uploads/784/105_529784_1_banner_dummy.png",
+		"events": [{
+			"trigger": "Banner.Impression",
+			"event_name": " DC.SB.Banner.Impression.IDFAKE  "
+		}, {
+			"trigger": "Banner.Click",
+			"event_name": "DC.SB.Ban  ner.Click.IDFAKE"
+		}],
+		"custom_impression_url": "http://httpbin.org/get?customImpression",
+		"width_landscape": "1080",
+		"height_portrait": "400",
+		"adagio_click_url": "http://ad-aws-it.neodatagroup.com/ad/clk.jsp?x=311259.529784.1063.464927.-1.so_android%5Elng_9_0633728%5Elat_39_3012076%5Eudid_573ed0d5-b2a8-438e-8687-2054a3e73f93%5EappName_DoveConviene%5EconnType_wifi%5Esover_5_1_1%5Edevice_LGE_Nexus_4%5Ecarrier_FASTWEB%5Eapi_mobileapi%5EappVer_391.26.105.1.10282.1.-1.-1.-1..-1.4...&link=",
+		"banner_title": "TITOLO"
+	}
+}
