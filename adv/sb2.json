@@ -1,59 +1,25 @@
 {
 	"landing": {
-		"body": "body",
-		"title": "Titolo landing",
-		"actions": [{
-			"text": "Internal - MW",
-			"tracking_url": "http://ad105.neodatagroup.com/ad/events.jsp?a=311259&l=464927&c=529784&sys=105&session_id=529784&etype=&evalue=&uv=viewer_1&dbg=0&rand=1465564010768",
-			"param": "http://www.mediaworld.it",
-			"action": "internal_link",
-			"type": "button"
-		}, {
-			"text": "External - DVC",
-			"tracking_url": "http://ad105.neodatagroup.com/ad/events.jsp?a=311259&l=464927&c=529784&sys=105&session_id=529784&etype=&evalue=&uv=viewer_1&dbg=0&rand=1465564010768",
-			"param": "https://www.doveconviene.it",
-			"action": "external_link",
-			"type": "button"
-		}, {
-			"text": "Da Rimuovere 1",
-			"tracking_url": "http://ad105.neodatagroup.com/ad/events.jsp?a=311259&l=464927&c=529784&sys=105&session_id=529784&etype=&evalue=&uv=viewer_1&dbg=0&rand=1465564010768",
-			"param": "https://www.doveconviene.it",
-			"action": "tipo",
-			"type": "button"
-		}, {
-			"text": "Da Rimuovere 2",
-			"tracking_url": "http://ad105.neodatagroup.com/ad/events.jsp?a=311259&l=464927&c=529784&sys=105&session_id=529784&etype=&evalue=&uv=viewer_1&dbg=0&rand=1465564010768",
-			"param": "https://www.doveconviene.it",
-			"action": "tappo",
-			"type": "button"
-		}, {
-			"text": "Youtube",
-			"tracking_url": "http://ad105.neodatagroup.com/ad/events.jsp?a=311259&l=464927&c=529784&sys=105&session_id=529784&etype=&evalue=&uv=viewer_1&dbg=0&rand=1465564010768",
-			"param": "https://www.youtube.com/watch?v=u9hSFvRIxAI",
-			"action": "internal_link",
-			"type": "button"
-		}, {
-		}],
-		"img_landscape_url": "https://adagiobanner.s3.amazonaws.com/img_uploads/784/105_529784_1_banner_dummy.png",
-		"img_portrait_url": "https://adagiobanner.s3.amazonaws.com/img_uploads/784/105_529784_1_banner_dummy.png"
+		"landing_url": "www.doveconviene.it"
 	},
+	"type": ["sb2"],
 	"banner": {
-		"img_landscape": "https://adagiobanner.s3.amazonaws.com/img_uploads/784/105_529784_1_banner_dummy.png",
-		"height_landscape": "400",
-		"custom_click_url": "http://httpbin.org/get?clickUrl",
-		"width_portrait": "1080",
-		"img_portrait": "https://adagiobanner.s3.amazonaws.com/img_uploads/784/105_529784_1_banner_dummy.png",
+		"img_landscape": "https://adagiobanner.s3.amazonaws.com/img_uploads/734/105_540734_2_banner_dummy_sb2.png",
+		"custom_click_url": "",
+		"height_landscape": "240",
+		"width_portrait": "640",
 		"events": [{
 			"trigger": "Banner.Impression",
-			"event_name": " DC.SB.Banner.Impression.IDFAKE  "
+			"event_name": "DC.sb.banner.impression.66652.319921"
 		}, {
 			"trigger": "Banner.Click",
-			"event_name": "DC.SB.Ban  ner.Click.IDFAKE"
+			"event_name": "DC.sb.banner.click.66652.319921"
 		}],
-		"custom_impression_url": "http://httpbin.org/get?customImpression",
-		"width_landscape": "1080",
-		"height_portrait": "400",
-		"adagio_click_url": "http://ad-aws-it.neodatagroup.com/ad/clk.jsp?x=311259.529784.1063.464927.-1.so_android%5Elng_9_0633728%5Elat_39_3012076%5Eudid_573ed0d5-b2a8-438e-8687-2054a3e73f93%5EappName_DoveConviene%5EconnType_wifi%5Esover_5_1_1%5Edevice_LGE_Nexus_4%5Ecarrier_FASTWEB%5Eapi_mobileapi%5EappVer_391.26.105.1.10282.1.-1.-1.-1..-1.4...&link=",
-		"banner_title": "TITOLO"
+		"custom_impression_url": "",
+		"img_portrait": "https://adagiobanner.s3.amazonaws.com/img_uploads/734/105_540734_2_banner_dummy_sb2.png",
+		"width_landscape": "640",
+		"adagio_click_url": "http://ad-aws-it.neodatagroup.com/ad/clk.jsp?x=319921.540734.1063.435468.-1.so_ios%5Elng_12_605835%5Elat_35_500521%5Eudid_57ff5716-2014-44c3-afd1-08870a330233%5EappName_DoveConviene%5EconnType_wifi%5Esover_10_0_2%5Edevice_iPhone%5Ecarrier_3%20ITA%5Eapi_mobileapi%5Ecapabilitysb2_true%5Ecapabilitysb1_true%5EappVer_441.24.105.1.4627.1.-1.-1.-1..-1.5.%7CR%3A667%7C..&link=",
+		"height_portrait": "240",
+		"banner_title": "Titulo banner"
 	}
 }
