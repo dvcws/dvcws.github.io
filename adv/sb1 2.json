@@ -1,0 +1,36 @@
+{
+   "landing":{
+      "body":"È arrivato il momento del salato\nLe Focaccelle sono il primo spezzafame salato di Mulino Bianco da mangiare dove e quando vuoi grazie alle pratiche monoporzioni. Sempre morbide e appetitose perché fatte con ingredienti genuini: farina, lievito, acqua e un pizzico di sale. Puoi provare la semplicità di Focaccelle in 3 squisiti gusti: Olio Extra Vergine d\u001aOliva, Pomodorini o Olive. \nScopri il Tour di Focaccelle!",
+      "title":"Titolo landing",
+      "actions":[
+         {
+            "text":"Volantino",
+            "tracking_url":"http://adevents.neodatagroup.com/ad/events.jsp?a=319915&l=435468&c=312078&sys=105&session_id=312078&etype=&evalue=&uv=viewer_1&dbg=0&rand=1477915775235",
+            "param":"392149",
+            "action":"viewer",
+            "type":"button"
+         },
+         {
+            "text":"Brand",
+            "tracking_url":"http://adevents.neodatagroup.com/ad/events.jsp?a=319915&l=435468&c=312078&sys=105&session_id=312078&etype=&evalue=&uv=brand_1&dbg=0&rand=1477915775235",
+            "param":"10",
+            "action":"brand",
+            "type":"button"
+         }
+      ],
+      "img_landscape_url":"https://adagiobanner.s3.amazonaws.com/img_uploads/78/105_312078_1_banner_dummy_sb1.png",
+      "img_portrait_url":"https://adagiobanner.s3.amazonaws.com/img_uploads/78/105_312078_1_banner_dummy_sb1.png"
+   },
+   "banner":{
+      "img_landscape":"https://adagiobanner.s3.amazonaws.com/img_uploads/78/105_312078_1_banner_dummy_sb1.png",
+      "height_landscape":"400",
+      "custom_click_url":"",
+      "width_portrait":"1080",
+      "img_portrait":"https://adagiobanner.s3.amazonaws.com/img_uploads/78/105_312078_1_banner_dummy_sb1.png",
+      "custom_impression_url":"",
+      "width_landscape":"1080",
+      "height_portrait":"400",
+      "adagio_click_url":"http://ad-aws-it.neodatagroup.com/ad/clk.jsp?x=319915.312078.1063.435468.-1.so_android%5Elng_9_0633720%5Elat_39_3011772%5Eudid_5811d5df-6970-4686-9035-542d0a060234%5EappName_DoveConviene%5EconnType_wifi%5Esover_7_0%5Edevice_Huawei_Nexus_6P%5Ecarrier_%5Eapi_mobileapi%5Ecapabilitysb1_true%5EappVer_441.34.105.1.4627.1.-1.-1.-1..-1.4...&link=",
+      "banner_title":"SB1 - BANNER 1"
+   }
+}

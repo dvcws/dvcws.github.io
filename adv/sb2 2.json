@@ -1,0 +1,25 @@
+ appena s{
+	"landing": {
+		"landing_url": "http://www.doveconviene.it"
+	},
+	"type": ["sb2"],
+	"banner": {
+		"img_landscape": "https://adagiobanner.s3.amazonaws.com/img_uploads/734/105_540734_2_banner_dummy_sb2.png",
+		"custom_click_url": "",
+		"height_landscape": "240",
+		"width_portrait": "640",
+		"events": [{
+			"trigger": "Banner.Impression",
+			"event_name": "DC.sb.banner.impression.66652.319921"
+		}, {
+			"trigger": "Banner.Click",
+			"event_name": "DC.sb.banner.click.66652.319921"
+		}],
+		"custom_impression_url": "",
+		"img_portrait": "https://adagiobanner.s3.amazonaws.com/img_uploads/734/105_540734_2_banner_dummy_sb2.png",
+		"width_landscape": "640",
+		"adagio_click_url": "http://ad-aws-it.neodatagroup.com/ad/clk.jsp?x=319921.540734.1063.435468.-1.so_ios%5Elng_12_605835%5Elat_35_500521%5Eudid_57ff5716-2014-44c3-afd1-08870a330233%5EappName_DoveConviene%5EconnType_wifi%5Esover_10_0_2%5Edevice_iPhone%5Ecarrier_3%20ITA%5Eapi_mobileapi%5Ecapabilitysb2_true%5Ecapabilitysb1_true%5EappVer_441.24.105.1.4627.1.-1.-1.-1..-1.5.%7CR%3A667%7C..&link=",
+		"height_portrait": "240",
+		"banner_title": "SB2 - BANNER 1"
+	}
+}
