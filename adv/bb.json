@@ -6,7 +6,7 @@
 		"actions": [{
 			"text": "WEBVIEW",
 			"tracking_url": "http://ad105.neodatagroup.com/ad/events.jsp?a=311259&l=464927&c=529784&sys=105&session_id=529784&etype=&evalue=&uv=viewer_1&dbg=0&rand=1465564010768",
-			"param": "https://dvcws.github.io/landing/walmart.html",
+			"param": "https://www.walmart.com.mx/mejor-martes?utm_source=dondelocompro&utm_medium=display&utm_campaign=mg_donde_lo_compro_mejor_martes",
 			"action": "internal_link",
 			"type": "button"
 		},
