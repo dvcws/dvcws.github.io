@@ -1,0 +1,62 @@
+
+{
+    "type": [
+        "cc2"
+    ],
+    "creativities": [
+        {
+            "banner": {
+                "img_landscape": "https://adagiobanner.s3.amazonaws.com/img_uploads/78/105_312078_1_banner_dummy_sb1.png",
+                "height_landscape": "400",
+                "custom_click_url": "",
+                "width_portrait": "1080",
+                "img_portrait": "https://adagiobanner.s3.amazonaws.com/img_uploads/78/105_312078_1_banner_dummy_sb1.png",
+                "custom_impression_url": "",
+                "width_landscape": "1080",
+                "height_portrait": "400",
+                "adagio_click_url": "http://ad-aws-it.neodatagroup.com/",
+                "banner_title": "Curated Content 2",
+                "events": [
+                    {
+                        "trigger": "Banner.Impression",
+                        "event_name": "DC.cc.banner.impression.66652.319921"
+                    },
+                    {
+                        "trigger": "Banner.Click",
+                        "event_name": "DC.cc.banner.click.66652.319921"
+                    }
+                ]
+            },
+            "landing": {
+                "resource_id": "200"
+            }
+        },
+        {
+            "banner": {
+                "img_landscape": "https://adagiobanner.s3.amazonaws.com/img_uploads/78/105_312078_1_banner_dummy_sb1.png",
+                "height_landscape": "400",
+                "custom_click_url": "",
+                "width_portrait": "1080",
+                "img_portrait": "https://adagiobanner.s3.amazonaws.com/img_uploads/78/105_312078_1_banner_dummy_sb1.png",
+                "custom_impression_url": "",
+                "width_landscape": "1080",
+                "height_portrait": "400",
+                "adagio_click_url": "http://ad-aws-it.neodatagroup.com/",
+                "banner_title": "Curated Content 2 pag2",
+                "events": [
+                    {
+                        "trigger": "Banner.Impression",
+                        "event_name": "DC.cc.banner.impression.66652.319921"
+                    },
+                    {
+                        "trigger": "Banner.Click",
+                        "event_name": "DC.cc.banner.click.66652.319921"
+                    }
+                ]
+            },
+            "landing": {
+                "resource_id": "200"
+            }
+        }
+    ]
+}
