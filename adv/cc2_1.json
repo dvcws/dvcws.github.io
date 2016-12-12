@@ -7,13 +7,13 @@
         {
             "banner": {
                 "img_landscape": "https://s23.postimg.org/bozaht7mz/banner_1.png",
-                "height_landscape": "400",
+                "height_landscape": "405",
                 "custom_click_url": "",
                 "width_portrait": "1080",
                 "img_portrait": "https://s23.postimg.org/bozaht7mz/banner_1.png",
                 "custom_impression_url": "",
                 "width_landscape": "1080",
-                "height_portrait": "400",
+                "height_portrait": "405",
                 "adagio_click_url": "http://ad-aws-it.neodatagroup.com/",
                 "banner_title": "Curated Content 2",
                 "events": [
@@ -34,15 +34,15 @@
         {
             "banner": {
                 "img_landscape": "https://s23.postimg.org/c357v5h4b/banner_2.png",
-                "height_landscape": "400",
+                "height_landscape": "405",
                 "custom_click_url": "",
                 "width_portrait": "1080",
                 "img_portrait": "https://s23.postimg.org/c357v5h4b/banner_2.png",
                 "custom_impression_url": "",
                 "width_landscape": "1080",
-                "height_portrait": "400",
+                "height_portrait": "405",
                 "adagio_click_url": "http://ad-aws-it.neodatagroup.com/",
-                "banner_title": "Curated Content 2",
+                "banner_title": "Curated Content 2 (PAG. 2)",
                 "events": [
                     {
                         "trigger": "Banner.Impression",
@@ -61,15 +61,15 @@
         {
             "banner": {
                 "img_landscape": "https://s23.postimg.org/kmolswpgr/banner_3.png",
-                "height_landscape": "400",
+                "height_landscape": "405",
                 "custom_click_url": "",
                 "width_portrait": "1080",
                 "img_portrait": "https://s23.postimg.org/kmolswpgr/banner_3.png",
                 "custom_impression_url": "",
                 "width_landscape": "1080",
-                "height_portrait": "400",
+                "height_portrait": "405",
                 "adagio_click_url": "http://ad-aws-it.neodatagroup.com/",
-                "banner_title": "Curated Content 2 pag2",
+                "banner_title": "Curated Content 2 (PAG. 3)",
                 "events": [
                     {
                         "trigger": "Banner.Impression",
