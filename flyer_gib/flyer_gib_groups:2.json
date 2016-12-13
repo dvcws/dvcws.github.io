@@ -1,0 +1,21 @@
+{
+	"metadata": {
+		"success": 1,
+		"code": 200,
+		"message": "OK",
+		"time": 0.14
+	},
+	"data": [{
+		"FlyerGibGroup": {
+			"id": "2",
+			"title": "title 1 prova",
+			"description": "description 1",
+			"img_url": "http:\/\/www.test.it\/img\/1.jpeg",
+			"extras": {
+				"optional_title": ""
+			},
+			"created": "2016-11-28 16:17:05",
+			"modified": "2016-12-06 12:38:01"
+		}
+	}]
+}

@@ -1,0 +1,55 @@
+{
+	"metadata": {
+		"success": 1,
+		"code": 200,
+		"message": "OK",
+		"time": 0.17
+	},
+	"data": [{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-20230a020221",
+			"type": "clip",
+			"flyer_id": "437771",
+			"retailer_id": "2",
+			"distance": "4.036311603810525",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "LG TV LED 49\u201d 49LF590",
+			"publication_url": "http:\/\/www.doveconviene.it\/_\/redirect?to=http%3A%2F%2Fwww.doveconviene.it%2F_%2Fclip%2F5714e7c6-0a88-49a6-886e-20230a020221%3Fdcid%3D{{client.id}}%26utm_source%3Dundefined",
+			"description": "Codice:706687<br \/>\r\nSMART TV LED 49&quot; Full HD - Risoluzione: 1920x1080<br \/>\r\nDLNA - WiFi - Tecnologia 400 PMI<br \/>\r\nTuner Digitale Terrestre DVB-T2 e Satellitare DVB-S2&nbsp;<br \/>\r\nCertificazione DGTVi Bollino Gold&nbsp;<br \/>\r\nClasse efficienza energetica: A+<br \/>\r\nDistribuito da LG Italia",
+			"settings": {
+				"flyer_page": "3",
+				"layout": {
+					"header_title": "Preparati all'acquisto",
+					"buttons": [{
+						"elementName": "a",
+						"name": "btn0",
+						"value": "Maggiori<br> Informazioni",
+						"attributes": {
+							"href": "http:\/\/www.doveconviene.it\/_\/redirect?from=btn0&to=https%3A%2F%2Fwww.mediaworld.it%2Fmw%2Fmediaworld-it%2Flg-49lf590v%3Futm_source%3Ddoveconviene%26utm_medium%3De-flyer%26utm_content%3Dstar_wars%26utm_campaign%3Dvol_22"
+						}
+					}, {
+						"elementName": "a",
+						"name": "btn1",
+						"value": "Disponibilit\u00e0<br> in negozio",
+						"attributes": {
+							"href": "http:\/\/www.doveconviene.it\/_\/redirect?from=btn1&to=https%3A%2F%2Fwww.mediaworld.it%2Fmw%2Fmediaworld-it%2Flg-49lf590v%3Futm_source%3Ddoveconviene%26utm_medium%3De-flyer%26utm_content%3Dstar_wars%26utm_campaign%3Dvol_22"
+						}
+					}, {
+						"elementName": "a",
+						"name": "btn2",
+						"value": "Acquista<br> On Line",
+						"attributes": {
+							"href": "http:\/\/www.doveconviene.it\/_\/redirect?from=btn2&to=https%3A%2F%2Fwww.mediaworld.it%2Fmw%2Fmediaworld-it%2Flg-49lf590v%3Futm_source%3Ddoveconviene%26utm_medium%3De-flyer%26utm_content%3Dstar_wars%26utm_campaign%3Dvol_22"
+						}
+					}]
+				},
+				"price": "\u20ac 549,99",
+				"image_url": [
+					"https:\/\/www.mediaworld.it\/wcsstore\/MMCatalogAssetStore\/asset\/images\/70\/66\/706687.jpg"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	}]
+}
