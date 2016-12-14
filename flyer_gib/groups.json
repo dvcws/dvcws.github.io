@@ -8,9 +8,9 @@
 	"data": [{
 		"FlyerGibGroup": {
 			"id": "2",
-			"title": "title 1 prova",
-			"description": "description 1",
-			"img_url": "http:\/\/www.test.it\/img\/1.jpeg",
+			"title": "Voglia di birra? Scopri le offerte imperdibili scelte per te!",
+			"description": "Ti presentiamo le migliori offerte di birra di questa settimana, in una pratica lista. Naviga tra i diversi volantini nel menù dedicato, e non lasciarti sfuggire il prodotto a te più conveniente!",
+			"img_url": "https://s23.postimg.org/dvrv91tsb/banner.jpg",
 			"extras": {
 				"optional_title": ""
 			},
