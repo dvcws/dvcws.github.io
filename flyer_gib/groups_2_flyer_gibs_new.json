@@ -1,0 +1,238 @@
+{
+	"metadata": {
+		"success": 1,
+		"code": 200,
+		"message": "OK",
+		"time": 0.17
+	},
+	"data": [{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-NGX2UJPNN7",
+			"type": "clip",
+			"flyer_id": "438848",
+			"retailer_id": "109",
+			"distance": "4.2",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra San Miguel - 500ml",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "9",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/7wucn1j47/438848_9.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	},
+	{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-2DOER4N4Z0",
+			"type": "clip",
+			"flyer_id": "439025",
+			"retailer_id": "110",
+			"distance": "21.1",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra Tre Luppoli Poretti - 66cl",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "11",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/d9j71670n/439025_11_1.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	},
+	{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-9LQNGDS7N5",
+			"type": "clip",
+			"flyer_id": "439025",
+			"retailer_id": "110",
+			"distance": "21.1",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra ichnusa - 33cl",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "11",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/oaec66z9j/439025_11_2.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	},
+	{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-P1NS0BWRUO",
+			"type": "clip",
+			"flyer_id": "443473",
+			"retailer_id": "629",
+			"distance": "17.2",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra Corona Extra - 350ml",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "21",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/dc32o0ao7/443473_21_1.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	},
+	{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-V2DGDSUB87",
+			"type": "clip",
+			"flyer_id": "443473",
+			"retailer_id": "629",
+			"distance": "17.2",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra Nastro Azzurro - 66cl",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "21",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/3stdujn5z/443473_21_2.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	},
+	{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-MGTTFFOBWN",
+			"type": "clip",
+			"flyer_id": "444357",
+			"retailer_id": "370",
+			"distance": "7.0",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra ichnusa - 33cl",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "11",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/v4omvvrwn/444357_11_1.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	},
+	{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-36UAIWLF9L",
+			"type": "clip",
+			"flyer_id": "444357",
+			"retailer_id": "370",
+			"distance": "7.0",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra Beck's - 3x33cl",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "11",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/r9l8tb8qv/444357_11_2.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	},
+	{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-QTGE2GHTPP",
+			"type": "clip",
+			"flyer_id": "444357",
+			"retailer_id": "370",
+			"distance": "7.0",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra Peroni - 66cl",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "11",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/o458gufif/444357_11_3.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	},
+	{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-XUYAS80JZ6",
+			"type": "clip",
+			"flyer_id": "444357",
+			"retailer_id": "370",
+			"distance": "7.0",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra Tuborg - 66cl",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "11",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/xd7eqyoef/444357_11_4.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	},
+	{
+		"FlyerGib": {
+			"id": "5714e7c6-0a88-49a6-886e-UL5W5JWXVR",
+			"type": "clip",
+			"flyer_id": "444567",
+			"retailer_id": "104",
+			"distance": "2.4",
+			"expires_at": "2017-12-31 00:00:00",
+			"title": "Birra ichnusa - 33cl",
+			"publication_url": "",
+			"description": "",
+			"settings": {
+				"flyer_page": "13",
+				"layout": "",
+				"price": "",
+				"image_url": [
+					"https://s5.postimg.org/aps5kt8uf/444567_13.png"
+				]
+			},
+			"created": "2016-04-18 15:57:26",
+			"modified": "2016-04-18 15:57:26"
+		}
+	}]
+}
