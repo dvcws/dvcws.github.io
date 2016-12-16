@@ -9,10 +9,10 @@
 		"FlyerGibGroup": {
 			"id": "2",
 			"title": "Speciale Birra",
-			"description": "Ti presentiamo le migliori offerte di birra di questa settimana, in una pratica lista. Naviga tra i diversi volantini nel menù dedicato, e non lasciarti sfuggire il prodotto a te più conveniente!",
+			"description": "",
 			"img_url": "https://s5.postimg.org/6hxdc27ev/beer_banner.jpg",
 			"extras": {
-				"optional_title": "Voglia di birra? Scopri le offerte imperdibili scelte per te!"
+				"optional_title": ""
 			},
 			"created": "2016-11-28 16:17:05",
 			"modified": "2016-12-06 12:38:01"
