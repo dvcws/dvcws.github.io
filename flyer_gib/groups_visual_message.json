@@ -8,8 +8,8 @@
 	"data": [{
 		"FlyerGibGroup": {
 			"id": "2",
-			"title": "Speciale Birre",
-			"description": "Voglia di birra? Scopri le offerte imperdibili scelte per te!",
+			"title": "Speciale Birra",
+			"description": "Ti presentiamo le migliori offerte di birra di questa settimana, in una pratica lista. Naviga tra i diversi volantini nel menù dedicato, e non lasciarti sfuggire il prodotto a te più conveniente!",
 			"extras": {
 				"optional_title": "",
 				"groupHeaderTablet": {

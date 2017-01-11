@@ -1,0 +1,42 @@
+{
+	"metadata": {
+		"success": 1,
+		"code": 200,
+		"message": "OK",
+		"time": 0.14
+	},
+	"data": [{
+		"FlyerGibGroup": {
+			"id": "2",
+			"title": "Speciale Birra",
+			"description": "",
+			"extras": {
+				"optional_title": "7 imperdibili offerte di birra scelte per te!",
+				"groupHeaderTablet": {
+          "default": [
+            "https://s5.postimg.org/6hxdc27ev/beer_banner.jpg"
+          ],
+          "big": [
+            "https://s5.postimg.org/6hxdc27ev/beer_banner.jpg"
+          ],
+          "small": [
+            "https://s5.postimg.org/6hxdc27ev/beer_banner.jpg"
+          ]
+        },
+        "groupHeaderSmartphone": {
+          "default": [
+            "https://s5.postimg.org/6hxdc27ev/beer_banner.jpg"
+          ],
+          "big": [
+            "https://s5.postimg.org/6hxdc27ev/beer_banner.jpg"
+          ],
+          "small": [
+            "https://s5.postimg.org/6hxdc27ev/beer_banner.jpg"
+          ]
+        }
+			},
+			"created": "2016-11-28 16:17:05",
+			"modified": "2016-12-06 12:38:01"
+		}
+	}]
+}
