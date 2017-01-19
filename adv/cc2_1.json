@@ -28,7 +28,7 @@
                 ]
             },
             "landing": {
-                "resource_id": "200"
+                "resource_id": "23"
             }
         },
         {
@@ -55,7 +55,7 @@
                 ]
             },
             "landing": {
-                "resource_id": "200"
+                "resource_id": "23"
             }
         },
         {
@@ -82,7 +82,7 @@
                 ]
             },
             "landing": {
-                "resource_id": "200"
+                "resource_id": "23"
             }
         }
     ]
